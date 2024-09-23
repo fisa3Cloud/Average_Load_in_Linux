@@ -47,3 +47,21 @@ MiB Swap:   4096.0 total,   4096.0 free,      0.0 used.   7481.6 avail Mem
 ````
 
 시스템의 스왑 메모리가 0 MiB로 비어 있고, 사용 가능한 메모리가 7481.6 MiB로 충분하며, 주요 프로세스들의 CPU와 메모리 사용률이 모두 낮아 현재 안정적인 상태임을 나타냅니다.
+
+
+---
+
+1번 실습환경
+<p align="left"><img src="https://github.com/user-attachments/assets/74a35601-656f-4ad8-9f36-5368095437d7"></p>
+
+2번 파일구조
+<p align="left"><img src="https://github.com/user-attachments/assets/29a2c5f8-91bc-401b-a91e-6917e780bb8d"></p>
+
+3번 키바나1
+<p align="left"><img src="https://github.com/user-attachments/assets/3430f9b4-36bf-42e7-9257-83f015652229"></p>
+
+4번 키바나2
+<p align="left"><img src="https://github.com/user-attachments/assets/c5427000-630c-487a-9420-22fbb990ed0d"></p>
+
+5번 키바나3
+<p align="left"><img src="https://github.com/user-attachments/assets/f1243c9f-924f-45e7-8f60-cdf7adc4b395"></p>
