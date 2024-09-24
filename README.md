@@ -228,6 +228,12 @@ output {
 
 각각 cpu_usage, load_average, monitor, pidstat으로 log로 기록하였습니다.
 <br>
+<br>
+**stress주는 명령어**
+```bash
+stress --cpu 1 --timeout 600
+```
+위 명령어를 통해 cpu 1코어에 stress를 주었습니다.
 
 <br>
 
@@ -240,6 +246,7 @@ ELK 스택을 활용하여 **로그 데이터를 수집하고 시각화하여, �
 <p align="left"><img src="https://github.com/user-attachments/assets/c5427000-630c-487a-9420-22fbb990ed0d"></p>
 
 **스트레스를 줬을 때**
+
 <p align="left"><img src="https://github.com/user-attachments/assets/f1243c9f-924f-45e7-8f60-cdf7adc4b395"></p>
 
 부하 테스트 결과, 스트레스를 주었을 때 **시스템의 CPU 사용률과 메모리 사용량이 급격히 증가**하며 **로드 평균이 높아지는 것**을 확인할 수 있었습니다. 이는 시스템의 성능 저하와 안정성 문제를 야기할 수 있으며, 실시간 모니터링이 중요한 이유를 다시 한 번 확인할 수 있는 계기가 되었습니다. 
